@@ -1,7 +1,7 @@
 # Bath Spa Area
 The lines in the Bath Spa Area, including the Melksham Chord.
 
-![Image of Current State of Map](Images/Bath Spa Area.bmp)
+![Image of Current State of Map](Images/Bath_Spa_Area.bmp)
 
 ## Current Status
 
